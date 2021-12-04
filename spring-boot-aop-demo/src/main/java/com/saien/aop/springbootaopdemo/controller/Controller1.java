@@ -1,4 +1,4 @@
-package com.saien.aop.springbootaopdemo.aop.controller;
+package com.saien.aop.springbootaopdemo.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
